@@ -1,0 +1,106 @@
+<!--  Notifications -->
+<section relative-max-height="185" class="notifications" ng-click="switchTab()" scale-enter>
+
+	<header>
+		<span class="title">Notifications ({{notifications.length}})</span> 
+		<span class="close icon-close" ng-click="app.go('map')"></span>
+	</header>
+
+	<div relative-max-height="305" class="container">
+		<div 	class="notif"
+				draggable
+				selectable
+				ng-repeat="notif in notifications">
+
+			<div class="visible" ng-class="{viewed: notif.isViewed}">
+			 	<div class="thumbnailContainer">
+					<img full-frame class="thumbnail" ng-src="http://outils.hetic.net/external/picture/{{notif.sender_id}}" />
+				</div>
+
+				<div class="firstColumn">
+
+					<p>
+						<span class="name">{{notif.sender_prenom}} {{notif.sender_nom}}</span>
+						vous a envoyé un
+						<span ng-if="notif.type === 'WTFRU'" class="type">WTFRU?!</span>
+						<span ng-if="notif.type === 'COG'" class="type">COG.</span>
+						<span ng-if="notif.type === 'HERE'" class="type">I'm Here!</span>
+						<span ng-if="notif.type === 'OMW'" class="type">On My Way!</span>						
+					</p>
+
+					<p>
+						<span ng-if="notif.sender_wifidevice" class="place">en {{ map.wifiDevices[notif.sender_wifidevice].salle }} </span>
+						<span class="activity" am-time-ago="{{notif.date*1000}}">maintenant</span>
+					</p>
+				</div>
+			</div>
+			<div class="hidden">
+				<div class="row">
+					<span class="message" ng-show="!!notif.content">"{{notif.content}}"</span>
+				</div>
+				<div class="row">
+
+					<div class="col2">
+						<span 	ng-if="notif.type === 'WTFRU'" 
+								class="icon-here-1" 
+								ng-click="app.here(notif.sender_id)">I'm Here!</span>
+						
+						<span 	ng-if="notif.type === 'COG'" 
+								class="icon-imomw" 
+								ng-click="app.omw(notif.sender_id)">On My Way!</span>
+
+						<span 	ng-if="notif.type === 'HERE'"
+								ng-click="app.go('map.place', {placeName: map.wifiDevices[notif.sender_wifidevice].salle})">
+							{{ map.wifiDevices[notif.sender_wifidevice].salle }}
+						</span>
+
+					</div>
+
+					<div class="col2">
+						<span 	class="icon-user-card" 
+								ng-click="app.go('map.usercard', {id: notif.sender_id})">Profil</span>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!--  History -->
+<section relative-max-height="245" class="history hidden" ng-click="switchTab()" scale-enter>
+
+	<header>
+		<span class="title">Historique</span> 
+		<span class="close icon-close"></span>
+	</header>
+
+	<div relative-max-height="305" class="container">
+		<div 	class="notif"
+				ng-repeat="notif in history">
+
+			<div class="visible">
+
+				<div class="firstColumn">
+					<p>
+						Vous avez envoyé un 
+						<span ng-if="notif.type === 'WTFRU'" class="type">WTFRU?!</span>
+						<span ng-if="notif.type === 'COG'" class="type">COG.</span>
+						<span ng-if="notif.type === 'HERE'" class="type">I'm Here!</span>
+						<span ng-if="notif.type === 'OMW'" class="type">On My Way!</span>
+						 à
+						<span class="name">{{ map.getUserFromId(notif.receiver_id).prenom }}</span> 
+						<!-- <span ng-if="notif.receivers_id.length > 1"> et {{notif.receiver_id.length - 1}} autres personnes</span> -->
+					</p>
+
+					<p>
+						<span class="activity" am-time-ago="{{notif.date*1000}}">maintenant</span>
+					</p>
+				</div>
+			 	<div class="thumbnailContainer">
+					<img full-frame class="thumbnail" ng-src="http://outils.hetic.net/external/picture/{{app.me.user.id}}" />
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

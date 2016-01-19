@@ -1,0 +1,69 @@
+<div on-click-toggle-class="selected" id="students" scale-enter>
+	<div class="visible">
+		<span>Étudiants</span>
+		<span 	class="tick" 
+				ng-class="{active: map.filters.promo === 'all'}"
+				ng-click="map.addFilter('promo', 'all')"></span>
+	</div>
+
+	<div class="hidden">
+		<div class="row">
+			<div class="col2">
+				<span 	ng-class="{active: map.filters.promo === 'H1' || map.filters.promo === 'all'}" 
+						ng-click="map.addFilter('promo', 'H1')">H1</span>
+			</div>
+			<div class="col2">
+				<span 	ng-class="{active: map.filters.promo === 'H2' || map.filters.promo === 'all'}"
+						ng-click="map.addFilter('promo', 'H2')">H2</span>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col2">
+				<span 	ng-class="{active: map.filters.promo === 'H3' || map.filters.promo === 'all'}" 
+						ng-click="map.addFilter('promo', 'H3')">H3</span>
+			</div>
+			<div class="col2">
+				<span 	ng-class="{active: map.filters.promo === 'H4' || map.filters.promo === 'all'}"
+						ng-click="map.addFilter('promo', 'H4')">H4</span>
+			</div>
+		</div>
+
+		<div class="row">
+			<span 	ng-class="{active: map.filters.promo === 'H5' || map.filters.promo === 'all'}" 
+					ng-click="map.addFilter('promo', 'H5')">H5</span>
+		</div>
+	</div>
+</div>
+
+
+<div on-click-toggle-class="selected" id="staff" scale-enter>
+	<div class="visible">
+		<span>Staff</span>
+		<span 	class="tick" 
+				ng-class="{active: map.filters.staff === 'all'}"
+				ng-click="map.addFilter('staff', 'all')"></span>
+	</div>
+	<div class="hidden">
+		<div class="row">
+			<span 	ng-class="{active: map.filters.staff === 2 || map.filters.staff === 'all'}" 
+					ng-click="map.addFilter('staff', 2)">Administration</span>
+		</div>
+
+		<div class="row">
+			<span 	ng-class="{active: map.filters.staff === 1 || map.filters.staff === 'all'}" 
+					ng-click="map.addFilter('staff', 1)">Intervenants</span>
+		</div>
+	</div>
+</div>
+
+<div class="selected" id="skills" scale-enter>
+	<div class="visible">
+		<input class="competence" type="text" placeholder="Compétence" ng-model="map.filters.skills" />
+	</div>
+	<div class="hidden">
+		<div class="row" ng-if="map.filters.skills" ng-repeat="skill in skills | filter:map.filters.skills | limitTo:10">
+			<span ng-click="map.filters.skills = skill">{{skill}}</span>
+		</div>
+	</div>
+</div>

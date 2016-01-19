@@ -1,0 +1,35 @@
+<section id="tutoContainer">
+	
+	<span class="close icon-close" ng-click="app.go('map')"></span>
+
+	<div id="slide1" class="first slides tuto active">
+		<h2>1) Qu'est-ce que WTFRU ?</h2>
+		<img src="assets/images/tuto/tuto1.png" alt="">
+		<div class="hr"></div>
+		<p class="desc">Difficile de se réunir pour un Projet Pédagogique ? (utiliser des termes propres aux étudiants peut-être bénéfique pour nous)</p>
+		<p class="desc">Tu en as marre de tourner en rond sans trouver la bonne personne ?</p>
+		<p class="desc">Tu as des difficultés à maîtriser un langage et personne dans ton entourage ne peut t’aider ?</p>
+	</div>
+	<div id="slide2" class="second slides tuto after">
+		<h2>2) Avec WTRU vous pouvez :</h2>
+		<img src="assets/images/tuto/tuto2.png" alt="">
+		<div class="hr"></div>
+		<p class="desc">Recherchez un héticien au sein de l'école, avec son nom ou ses compétences</p>
+		<p class="desc">Dialoguez facilement avec les autres Héticiens grâce à l’API Slack</p>
+	</div>
+	<div id="slide3" class="third slides tuto after">
+		<h2>3) Une nouvelle expérience 100% HETIC</h2>
+		<img src="assets/images/tuto/tuto3.png" alt="">
+		<div class="hr"></div>
+		<p class="desc">Ce site est fait par des héticiens, pour les héticiens !</p>
+		<p class="desc">Essayez dès maintenant la recherche.</p>
+		<button id="skipTuto" ng-click="app.go('map')">Commencer</button>
+	</div>
+	
+	<nav>
+		<div class="point active" slide="1"></div>
+		<div class="point" slide="2"></div>
+		<div class="point" slide="3"></div>
+	</nav>
+
+</section>

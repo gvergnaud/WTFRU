@@ -1,0 +1,19 @@
+<section id="sendContainer">
+	<p class="legend link" ng-click="send.cancel()">ESC pour annuler</p>
+
+	<div class="content">
+		<span class="big-icon {{send.iconClass}}"></span>
+		<h1 class="title" >{{send.title}}</h1>
+		<div ng-class="{show: send.isInput}">
+			<span class="input">
+				<input type="text" id="msgInput" placeholder=" - saisir un texte personnalisé -" ng-model="Input" />
+			</span>
+			<p class="inputCount" ng-class="{error: send.maxMsgLength - Input.length <= 0}">{{send.maxMsgLength - Input.length}}</p>
+		</div>
+		<div ng-class="{show: !send.isInput}">
+			<span class="countDown">{{send.countDown}}</span>
+		</div>
+	</div>
+
+	<p class="legend link" ng-click="send.sendNotif()">ENTRER pour envoyer</p>
+</section>

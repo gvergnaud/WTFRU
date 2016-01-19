@@ -1,0 +1,22 @@
+<span 	class="slackClose icon-close"
+ng-click="app.go('map.usercard', {id: user.id});"></span>
+
+<section id='conversation'>
+	<ul id='conversation-ul' scroll-on-message>
+		<!-- demander un gab pour la variable -->
+		<li ng-repeat='message in messages.slice().reverse() track by $index' ng-class="{me : message.user == app.me.user.slack_id}"><img ng-src='http://outils.hetic.net/external/picture/{{(message.user == app.me.user.slack_id) ? app.me.user.id : user.id}}'/><div>
+			<div><h3>{{(message.user == app.me.user.slack_id) ? app.me.user.prenom + ' ' +  app.me.user.nom : user.prenom + ' ' +  user.nom}}</h3><p am-time-ago="message.ts*1000"></p></div>
+			<p>{{message.text}}</p></div>
+		</li>
+	</ul>
+</section>
+<form ng-if="!isSlack()" ng-submit='send()'>
+	<input id='input' ng-model='msg'>
+	<button type='submit'>send</button>
+</form>
+
+<div ng-if="isSlack()" id='authorizify'>
+		<a href="https://slack.com/oauth/authorize?client_id=3760872023.3763031462&team=T03NCRN0P&scope=identify,read,post,client">
+			<span><p>Autoriser Slack</p></span>
+		</a>
+</div>

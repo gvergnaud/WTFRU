@@ -1,0 +1,88 @@
+[ui-view="tuto"]{
+
+    #tutoContainer {
+    	display: none;
+    	position: absolute;
+    	top: 0;
+    	right: 0;
+    	left: 0;
+    	bottom: 0;
+    	overflow-y: scroll;
+    	text-align: center;
+    	overflow: hidden;
+
+    	background-color: rgba(15,15,30, .8); /* noir avec opacité */
+    	color: #fff;
+
+    	span.close{
+    		position: absolute;
+    		top: 12px;
+    		right: 10px;
+    		font-size: 16px;
+    		font-weight: bold;
+    		color: @grisfonce;
+    		cursor: pointer;
+
+    		.transition(all 0.1s);
+
+    		&:hover{
+    			color: @blanc;
+    		}
+    	}
+
+
+    	div.hr {
+          border-top: 2px rgba(255, 255, 255, .5) solid;
+          width: 25%;
+          margin: 20px auto 30px auto;
+        }
+
+        img {
+        	width: 200px;
+        }
+
+        .slides{
+        	.transition(all .5s cubic-bezier(.52,.72,0,1));
+        	position: absolute;
+        	top:50%;
+    		left:50%;
+    		.transform(translate(-50%, -50%));
+
+    		width: 600px;
+    		&.before{
+        		left:-100%;
+
+        	}
+
+        	&.after{
+        		left:150%;
+        	}
+
+
+
+        }
+
+
+        nav{
+        	position: absolute;
+
+        	bottom: 100px;
+        	left:50%;
+    		.transform(translateX(-50%));
+
+    		div.point{
+    			display: inline-block;
+    			margin: 0 15px;
+    			width:10px;
+    			height:10px;
+    			border-radius: 100px;
+    			background: @translucide;
+
+    			&.active{
+    				background: @opaque;
+    			}
+    		}
+
+        }
+    }
+}

@@ -1,0 +1,108 @@
+[ui-view="filter"]{
+	position: absolute;
+	top: 110px;
+	left:50%;
+	width: 140px;
+	border-radius: 3px;
+
+	font-family: 'Open Sans';
+	font-size: 14px;
+	text-align: center;
+
+	.transform(translateX(-50%));
+
+	#students{
+		&:before{
+			content:'';
+			width: 0;
+			height: 0;
+			position: absolute;
+			top: 0;
+			left: 50%;
+			.transform(translateX(-50%));
+
+			margin-top: -5px;
+			border-left: 5px solid transparent;
+			border-right: 5px solid transparent;
+			border-bottom: 5px solid #fff;
+		}
+	}
+
+	.visible{
+
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		background-color: @blanc;
+		border-bottom: 1px solid @grisclair;
+		height: 45px;
+
+		span{
+			margin-left: 10px;
+			display: inline-block;
+
+			&.tick{
+				margin-right: 15px;
+				height: 10px;
+				width: 10px;
+
+				background-color: @grisclair;
+				border-radius: 2px;
+
+				&.active{
+					background-color: @bleu;
+				}
+			}
+		}
+
+		input.competence{
+			outline: none;
+			border: none;
+			border-top: 1px solid @grisclair;
+			width: 100%;
+			height: 100%;
+			padding-left: 10px;
+			font-size: 16px;
+			color: @noir;
+		}
+	}
+
+	.hidden{
+		overflow: hidden;
+		height: 0;
+		.transition(all .5s cubic-bezier(.52,.72,0,1));
+
+		span{
+			display: block;
+			width:100%;
+			height:40px;
+			line-height: 40px;
+			background: @translucide;
+
+			&:hover{
+				background: @opaque;
+			}
+
+			&.active{
+				background: @bleu;
+				color: white;
+
+				&:hover{
+					background: @bleufonce;
+				}
+			}
+		}
+
+		.row{
+			display: flex;
+			justify-content: center;
+			height: 40px;
+		}
+	}
+
+	div.selected{
+		.hidden{
+			height: auto;
+		}
+	}
+}

@@ -1,0 +1,204 @@
+[ui-view="notification"]{
+	position: absolute;
+	top: 110px;
+	right: 125px;
+	width: 300px;
+
+	#notifModal{
+
+		&:before{
+			content:'';
+			width: 0;
+			height: 0;
+			position: absolute;
+			top: 0;
+			right: 20px;
+
+			margin-top: -5px;
+			border-left: 5px solid transparent;
+			border-right: 5px solid transparent;
+			border-bottom: 5px solid #fff;
+		}
+
+		header{
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			padding: 15px;
+
+			border-top-left-radius: 3px;
+			border-top-right-radius: 3px;
+			background-color: @blanc;
+
+			span.title{
+				font-family: 'Montserrat';
+				font-weight: bold;
+				text-transform: uppercase;
+				font-size: 13px;
+			}
+
+			span.viewed{
+				font-size: 13px;
+				font-weight: bold;
+				color: @bleu;
+			}
+		}
+
+		footer{
+
+			span{
+				width: 94%;
+				margin: 10px 3%;
+				height: 50px;
+				display: flex;
+				justify-content: space-around;
+				align-items: center;
+				border-radius: 2px;
+
+				background: rgba(255, 255, 255, 0.65);
+				color: @grisfonce;
+				text-transform: uppercase;
+				font-family: 'Montserrat';
+				font-weight: bold;
+
+				.transition(all 0.3s);
+
+				&:hover{
+					background: @blanc;
+				}
+			}
+		}
+
+		div.notif{
+
+			font-size: 13px;
+
+			div.visible{
+				position: relative;
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+
+				height:80px;
+				width: 100%;
+
+				background: @translucide;
+				border-bottom: 1px solid @grisclair;
+				overflow: hidden;
+
+				.transition(all .3s cubic-bezier(.52,.72,0,1));
+
+				&.viewed{
+					background: rgba(255, 255, 255, 0.65);
+				}
+
+				&:hover{
+					background: @opaque;
+				}
+
+				div.thumbnailContainer{
+					position: relative;
+					height: 50px;
+					width: 50px;
+					margin-left: 10px;
+				}
+
+				div.firstColumn{
+					cursor: pointer;
+					width: 218px;
+					margin-right: 10px;
+
+					p{
+						overflow: hidden;
+						text-overflow: ellipsis;
+						margin: 0;
+
+						font-family: 'Open Sans';
+						font-style: italic;
+						font-size: 14px;
+
+						span.type{
+							font-style: initial;
+							font-weight: bold;
+							font-family: 'Montserrat';
+						}
+
+						span.name{
+							font-style: initial;
+							font-weight: bold;
+						}
+					}
+				}
+			}
+
+			div.hidden{
+				height: 0;
+				width:94%;
+				margin-left: 3%;
+
+				overflow: hidden;
+				background: @bleu;
+
+
+				.transition(all .5s cubic-bezier(.52,.72,0,1));
+
+				.row:last-child{
+					border-left: 1px solid #fff;
+				}
+
+				span{
+					display: block;
+					width: 100%;
+					height: 50px;
+
+					line-height:  50px;
+					background: @bleu;
+					color: @blanc;
+					font-family: 'Montserrat';
+					font-size: 13px;
+					text-align: center;
+
+					cursor: pointer;
+					-webkit-user-select: none;
+
+					&:hover{
+						background: @bleufonce;
+					}
+
+					&:before{
+						font-size: 16px;
+					}
+
+					&.message{
+						background: @blanc;
+						color: @noir;
+					}
+				}
+			}
+
+			&.selected{
+
+				div.visible{
+
+				}
+
+				div.hidden{
+					height: 50px;
+				}
+			}
+
+			&.hasMsg{
+				&.selected{
+
+					div.visible{
+
+					}
+
+					div.hidden{
+						height: 100px;
+					}
+				}
+			}
+		}
+	}
+}

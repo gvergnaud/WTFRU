@@ -1,0 +1,119 @@
+#login{
+	position: fixed;
+	z-index: 1;
+	background-color:@bgDarkest;
+
+	height: 100%;
+	width: 100%;
+	text-align: center;
+
+	section.loginContent{
+		position: fixed;
+		height: 380px;
+		width: 300px;
+		top: 50%;
+		left: 50%;
+		margin: -190px 0 0 -150px;
+
+		a.logotype{
+			background: url('../assets/images/wtfru-logo.png') no-repeat 50% 50%;
+			background-size: 130px 27px;
+
+			width: 130px;
+			height: 27px;
+			margin: auto;
+			display:block;
+		}
+
+		div.usersWrap{
+			width: 216px;
+			margin: auto;
+
+			div.userContainer{
+				margin: 73px 0 0 0;
+
+				img{
+					width: 100px;
+					height: 100px;
+					margin: 24px auto;
+					border-radius: 50%;
+					display: block;
+				}
+
+				p{
+					color: @blanc;
+					font-weight: bold;
+					margin: 0 0 24px 0;
+					line-height:24px;
+
+					span{
+						display:block;
+						font-weight: normal;
+						font-style: italic;
+						font-size: 14px;
+					}
+				}
+			}
+
+			.entered{
+				.animation(enterCoUser 1s);
+			}
+
+			.left{
+				.animation(leaveCoUser 1s);
+			}
+		}
+
+		a.btn-connect{
+			display: inline-block;
+			width:125px;
+			height: 40px;
+			margin: 4px;
+			line-height: 40px;
+
+			font-family: 'Montserrat';
+			font-size: 13px;
+
+			border-radius: 2px;
+			cursor: pointer;
+
+			background-color: @bleu;
+			color: @blanc;
+			border-bottom: 2px solid @bleufonce;
+
+			.transition(all 0.3s);
+
+			&:hover{
+				background-color: @bleufonce;
+				.transform(scale(1.02));
+			}
+		}
+
+		div.arrow.left, div.arrow.right{
+			position: absolute;
+			background: url('../assets/images/ico-arrow-profil-white.png') no-repeat 50% 50%;
+			background-size: 12px 21px;
+
+			width: 40px;
+			height: 40px;
+			top: 50%;
+			margin-top: -20px;
+
+			cursor: pointer;
+			.transition(all 0.3s);
+
+			&:hover{
+				.transform(scale(1.2));
+			}
+		}
+
+		div.arrow.right{
+			right:0;
+			.transform(rotateZ(180deg));
+
+			&:hover{
+				.transform(scale(1.2) rotateZ(180deg));
+			}
+		}
+	}
+}

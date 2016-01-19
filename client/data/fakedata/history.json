@@ -1,0 +1,24 @@
+[
+	{
+		"type": "WTFRU",
+		"content": "tu fais quoi",
+		"date": 1414921768310,
+		"user_id": 1133,
+		"nom": "VERGNAUD",
+		"prenom": "Gabriel",
+  		"picture": "",
+		"wifiDevice": "S14AP1",
+		"receivers_id": [1018]
+	},
+	{
+		"type": "COG",
+		"content": "Amenez vous les mans",
+		"date": 1414921768310,
+		"user_id": 1133,
+		"nom": "VERGNAUD",
+		"prenom": "Gabriel",
+  		"picture": "",
+		"wifiDevice": "S14AP1",
+		"receivers_id": [1018, 1075]
+	}
+]

@@ -1,0 +1,28 @@
+<section id="placeContainer">
+	<header>
+		<span class="close icon-close" ng-click="app.go('map')"></span>
+		<h1 class="title">{{place.name}}</h1>
+		<p class="desc">Une petite description</p>
+	</header>
+
+	<main relative-max-height="249">
+		<h2 class="title">Personnes présentes</h2>
+		<div class="usersContainer">
+			<div class="user" ng-repeat="user in place.visibleUsers">
+				<div draggable>
+					<img ng-src="http://outils.hetic.net/external/picture/{{user.id}}" class="thumbnail" />
+				</div>
+				<span ng-click="app.go('map.usercard', {id: user.id})">
+					<p>{{user.prenom}}</p>
+					<p>{{user.nom}}</p>
+				</span>
+			</div>
+		</div>
+
+		<p 	class="invisibles"
+			ng-if="(place.users.length - place.visibleUsers.length)">
+			<span ng-if="place.visibleUsers.length">et </span>
+			{{ place.users.length - place.visibleUsers.length }} invisibles
+		</p>
+	</main>
+</section>

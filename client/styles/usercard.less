@@ -1,0 +1,267 @@
+[ui-view="usercard"]{
+	section{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		position: absolute;
+		top:0;
+		left:0;
+		height: 100%;
+		width: 100%;
+
+		cursor: default;
+		z-index: 10;
+		background: @bgDarkest;
+
+		div#card{
+			position: relative;
+			width: 320px;
+			max-height: 100%;
+
+			border-radius: 4px;
+			overflow: hidden;
+
+			header{
+				position: relative;
+				height: 200px;
+				overflow: hidden;
+
+				img.cover{
+					position: absolute;
+					top:0;
+					left:50%;
+					z-index: 0;
+					.transform(translateX(-50%));
+				}
+
+				span.over{
+					z-index: 1;
+
+					div.arc{
+						position: absolute;
+						bottom: -630px;
+						left: 50%;
+						width: 700px;
+						height: 700px;
+
+						border-radius: 400px;
+						background: @blanc;
+
+						.transform(translateX(-50%));
+					}
+
+					span.close{
+						position: absolute;
+						top: 12px;
+						right: 10px;
+						font-size: 13px;
+						font-weight: bold;
+						color: @grisfonce;
+						cursor: pointer;
+
+						.transition(all 0.1s);
+
+						&:hover{
+							color: @blanc;
+						}
+					}
+
+					h3.place{
+						position: relative;
+						margin-top: 40px;
+
+						color: @blanc;
+						text-align: center;
+						font-family: 'Montserrat';
+						font-weight: bold;
+						font-size: 14px;
+						text-transform: uppercase;
+					}
+
+					div.thumbnailContainer{
+						position: absolute;
+						top: 75px;
+						left: 50%;
+						width:100px;
+						height:100px;
+
+						border-radius: 100px;
+						border: 3px solid @blanc;
+						background-color: rgb(15,15,30);
+
+						overflow: hidden;
+
+						.transform(translateX(-50%));
+
+						img.thumbnail{
+
+
+						}
+					}
+
+					span.point{
+
+						position: absolute;
+						top: 157px;
+						right: 115px;
+						width: 12px;
+						height: 12px;
+						border-radius: 10px;
+						border: 2px solid @blanc;
+
+						background: @grisclair;
+
+						&.online{
+							background: @vert;
+						}
+
+						&.offline{
+							background: @rouge;
+						}
+					}
+
+					.add{
+						position: absolute;
+						bottom: 30px;
+						height: 50px;
+						width: 50px;
+						color: @noir;
+						text-decoration: none;
+
+						font-size: 24px;
+
+						border-radius: 50px;
+						background-color: @blanc;
+
+						&:before{
+							position: absolute;
+							top: 13px;
+							right: 8px;
+						}
+
+						&.left{
+							left: 30px;
+						}
+
+						&.right{
+							right: 30px;
+						}
+
+						&.icon-favoris{
+							color: @jaune;
+						}
+					}
+
+				}
+
+			}
+
+			div.content{
+				background: @blanc;
+
+				color: @noir;
+				font-family: 'Open Sans';
+				text-align: center;
+				padding: 10px;
+
+				h1.name{
+					font-weight: bold;
+					font-size: 22px;
+					margin:0;
+				}
+
+				h2.promo{
+					margin:0;
+					font-size: 14px;
+					color: @grisfonce;
+
+				}
+
+				span.button{
+					display: inline-block;
+					width:125px;
+					height: 40px;
+					margin: 25px 10px;
+
+					font-family: 'Montserrat';
+					font-size: 13px;
+
+					border-radius: 3px;
+					cursor: pointer;
+
+					.box-shadow(0px 1px 3px 0px rgba(137, 137, 137, 0.9));
+
+					span{
+						line-height: 40px;
+
+						&:before{
+							font-size: 20px;
+						}
+					}
+
+					&.wtfru{
+						background-color: @bleu;
+						color: @blanc;
+						border-bottom: 2px solid @bleufonce;
+					}
+
+					&.discussion{
+						background-color: @blanc;
+						border-bottom: 2px solid @grisfonce;
+					}
+
+					&.ghostMode{
+						width: 250px;
+						background-color: @blanc;
+
+						&.ghost{
+							background-color: @bleu;
+							color: @blanc;
+						}
+					}
+				}
+
+				p.citation{
+					margin: 10px 20px;
+					font-size: 14px;
+					font-style: italic;
+
+					input{
+						padding: 5px;
+						outline: none;
+					}
+				}
+
+				span.skill{
+					display: inline-block;
+					font-family: 'Open Sans';
+					font-weight: bold;
+					font-size: 13px;
+					text-transform: uppercase;
+					padding: 5px;
+					margin: 5px;
+					border: 1px solid @grisclair;
+				}
+			}
+
+			div.social{
+				display: flex;
+				justify-content: space-around;
+				align-items: center;
+				background-color: rgba(150, 150, 150,0.3);
+				height: 50px;
+				margin: 0 10px;
+
+				a{
+					color: @blanc;
+					font-size: 20px;
+					font-weight: normal;
+					text-decoration: none;
+					&.inactive{
+						color: @grisfonce;
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,142 @@
+<section ng-click="app.go('map')">
+		
+	<div id="card">
+		
+		<header>
+			<img class="cover" ng-src="assets/images/cover-default.jpg" />
+			
+			<span class="over">
+
+				<div class="arc"></div>
+
+				<span class="close icon-close" ng-click="app.go('map')"></span>
+				<h3 class="place" ng-if="user.wifi && user.ghost_at === 0">{{ map.wifiDevices[user.wifi.wifiDevice].salle }}</h3>
+				
+				<div class="thumbnailContainer">
+					<img full-frame class="thumbnail" ng-src="http://outils.hetic.net/external/picture/{{user.id}}" />
+				</div>
+
+				<span class="point" ng-class="{ online: user.wifi && user.ghost_at === 0, offline: user.ghost_at !== 0 || !user.wifi }"></span>
+
+				<span ng-if="!isProfil">
+					<div class="add left icon-team" ng-click="map.myGroup.add(user)"></div>
+					<div class="add right icon-favoris" ng-click="app.favorites.add(user)"></div>
+				</span>
+
+				<span ng-if="isProfil">
+					<a class="add left icon-settings" href="http://outils.hetic.net/home/editprofil" target="_blanc"></a>
+					<div class="add right icon-disconnect" ng-click="app.me.disconnect()"></div>
+				</span>
+
+			</span>
+		</header>
+
+		<div class="content">
+			<h1 class="name">{{user.prenom}} {{user.nom}}</h1>
+			<h2 class="promo" ng-if="user.hetic.level === 0">{{user.hetic.annee}} P{{user.hetic.promotion}}</h2>
+			<h2 class="promo" ng-if="user.hetic.level === 1">Intervenant</h2>
+			<h2 class="promo" ng-if="user.hetic.level === 2">Administration</h2>
+
+			<span ng-if="!isProfil">
+				<p ng-show="user.citation" class="citation">"{{user.citation}}"</p>
+			</span>
+			<span ng-if="isProfil">
+				<p editable="saveCitation" class="citation">{{ (user.citation || '"Rien n\'est fait tant qu\'il reste encore à faire"') }}</p>
+			</span>
+
+			<span ng-if="!isProfil">
+				<span 	class="button wtfru"
+						ng-click="app.wtfru(user)">
+					<span class="icon-wtfru">WTFRU?!</span>
+				</span>
+				<span 	class="button discussion"
+						ng-click="app.slack.open(user)" > <!-- user.slack_id-->
+					<span class="icon-slack">Discussion</span>
+				</span>
+			</span>
+
+			<span ng-if="isProfil">
+				<span 	class="button ghostMode"
+						ng-class="{ghost: user.ghost_at !== 0}"
+						ng-click="app.me.toggleGhostMode()">
+					<span class="{{ (user.ghost_at !== 0) ? 'icon-ghost-scared' : 'icon-ghost-happy'}}">Mode Fantome {{ (user.ghost_at !== 0) ? 'activé' : 'désactivé'}}</span>
+				</span>
+			</span>
+
+			<span class="skill" ng-repeat="skill in user.hetic.skills | limitTo:10">
+				{{skill.competence}}
+			</span>
+		</div>
+
+		<div class="social" ng-if="!isProfil">
+			<a 
+				ng-href="{{user.website ? (startUrl.website + user.website) : ''}}"
+				target="_blank"
+				ng-class="{inactive: !user.website}"
+				class="website icon-world"></a>
+
+			<a 
+				ng-href="{{user.twitter ? (startUrl.twitter + user.twitter) : ''}}" 
+				target="_blank"
+				ng-class="{inactive: !user.twitter}" 
+				class="twitter icon-twitter"></a>
+
+			<a 
+				ng-href="{{user.behance ? (startUrl.behance + user.behance) : ''}}" 
+				target="_blank" 
+				ng-class="{inactive: !user.behance}" 
+				class="behance icon-behance"></a>
+
+			<a 
+				ng-href="{{user.dribbble ? (startUrl.dribbble + user.dribbble) : ''}}" 
+				target="_blank" 
+				ng-class="{inactive: !user.dribbble}" 
+				class="dribbble icon-dribbble"></a>
+
+			<a 
+				ng-href="{{user.github ? (startUrl.github + user.github) : ''}}" 
+				target="_blank" 
+				ng-class="{inactive: !user.github}" 
+				class="github icon-github"></a>
+		</div>
+			
+		<div class="social" ng-if="isProfil">
+			<a 
+				input-tooltip="saveWebsite" 
+				data-start-url="{{startUrl.website}}" 
+				data-url="{{user.website}}" 
+				ng-class="{inactive: !user.website}" 
+				class="link website icon-world"></a>
+
+			<a 
+				input-tooltip="saveTwitter" 
+				data-start-url="{{startUrl.twitter}}" 
+				data-url="{{user.twitter}}" 
+				ng-class="{inactive: !user.twitter}" 
+				class="link twitter icon-twitter"></a>
+			<a 
+				input-tooltip="saveBehance" 
+				data-start-url="{{startUrl.behance}}" 
+				data-url="{{user.behance}}" 
+				ng-class="{inactive: !user.behance}" 
+				class="link behance icon-behance"></a>
+
+			<a 
+				input-tooltip="saveDribbble" 
+				data-start-url="{{startUrl.dribbble}}" 
+				data-url="{{user.dribbble}}" 
+				ng-class="{inactive: !user.dribbble}" 
+				class="link dribbble icon-dribbble"></a>
+
+			<a 
+				input-tooltip="saveGithub"
+				data-start-url="{{startUrl.github}}" 
+				data-url="{{user.github}}" 
+				ng-class="{inactive: !user.github}" 
+				class="link github icon-github"></a>
+		</div>
+	</div>
+
+	<div ui-view="slack" id='slack'></div>
+
+</section>

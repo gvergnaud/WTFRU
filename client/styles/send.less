@@ -1,0 +1,134 @@
+[ui-view="send"]{
+
+	.transition(.5s ease);
+
+	&.ng-enter{
+		section#sendContainer{
+			opacity: 0;
+			.transform(scale(2));
+		}
+	}
+
+	&.ng-enter-active{
+		section#sendContainer{
+			opacity: 1;
+			.transform(scale(1));
+		}
+	}
+
+	&.ng-leave{
+		section#sendContainer{
+			opacity: 1;
+			.transform(scale(1));
+		}
+	}
+
+	&.ng-leave-active{
+		section#sendContainer{
+			opacity: 0;
+			.transform(scale(2));
+		}
+	}
+
+	section#sendContainer{
+		position: fixed;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+		text-align: center;
+		top:0;
+		left:0;
+		height:100%;
+		width:100%;
+		background-color: rgba(255, 255, 255, .95);
+		z-index: 1000;
+
+		.transition(.5s cubic-bezier(.52,.72,0,1));
+
+		p.legend{
+			font-family: 'Montserrat';
+			font-size: 16px;
+			color: @grisfonce;
+		}
+
+		.content{
+			color: @noir;
+			width: 300px;
+			margin: 0 auto;
+
+			span.big-icon{
+				font-size: 150px;
+			}
+
+			h1.title{
+				margin-top: 0;
+				font-family: 'Montserrat';
+				font-size: 32px;
+				text-transform: uppercase;
+			}
+
+			div{
+				display: none;
+
+				&.show{
+					display: block;
+
+				}
+			}
+
+			span.input{
+				position: relative;
+
+				&:before, &:after{
+					position: absolute;
+					bottom: -10px;
+					content: '';
+					display: inline-block;
+					height: 10px;
+					width: 2px;
+					background: @grisfonce;
+				}
+
+				&:before{
+					left: 0;
+				}
+
+				&:after{
+					right: 0;
+				}
+
+				input#msgInput{
+					width: 280px;
+					padding: 10px;
+					border: none;
+					border-bottom: 2px solid @grisfonce;
+
+					text-align: center;
+					outline: none;
+					background: none;
+
+					font-size: 16px;
+					font-family: 'Open Sans';
+					font-weight: bold;
+				}
+			}
+
+			p.inputCount{
+				margin-top: 15px;
+				font-family: 'Montserrat';
+				color: @grisfonce;
+				text-align: right;
+				padding-right: 10px;
+
+				&.error{
+					color: @rouge;
+				}
+			}
+
+			span.countDown{
+				font-family: 'Montserrat';
+				font-size: 24px;
+			}
+		}
+	}
+}

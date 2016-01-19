@@ -1,0 +1,3632 @@
+{
+  "collection1": [
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "13/01/2015 02:10:49 PM",
+      "wifiDevice": "S12AP1"
+    },
+    {
+      "userName": "françois.pumir",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "13/01/2015 02:10:49 PM",
+      "wifiDevice": "S15AP1"
+    },
+
+    {
+      "userName": "julien.boyer",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "13/01/2015 02:10:49 PM",
+      "wifiDevice": "S15AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "14/01/2015 03:29:30 PM",
+      "wifiDevice": "S11AP2"
+    },
+    {
+      "userName": "Justine.PEYROT",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 08:59:35 AM",
+      "wifiDevice": "S15AP3"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 09:01:41 AM",
+      "wifiDevice": "S4AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 09:03:02 AM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "Maxime.ROBIN",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 09:04:35 AM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 09:10:49 AM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 09:15:09 AM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 11:30:59 AM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 10:11:19 AM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "damien.jordan",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 11:00:48 AM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 11:39:04 AM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 12:05:25 PM",
+      "wifiDevice": "S2AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 12:35:23 PM",
+      "wifiDevice": "S3AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 12:50:26 PM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 01:22:50 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 01:45:47 PM",
+      "wifiDevice": "S6AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 01:47:26 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 01:49:02 PM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 01:54:41 PM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 01:56:15 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 01:57:26 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 01:59:40 PM",
+      "wifiDevice": "S15AP3"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:04:24 PM",
+      "wifiDevice": "S10AP1"
+    },
+    {
+      "userName": "Valentin.DAVID",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:05:39 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:08:38 PM",
+      "wifiDevice": "S15AP3"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:10:22 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:11:50 PM",
+      "wifiDevice": "S6AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:15:44 PM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:16:26 PM",
+      "wifiDevice": "S3AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:16:11 PM",
+      "wifiDevice": "S4AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 02:57:35 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:16:43 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:19:32 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:25:24 PM",
+      "wifiDevice": "S2AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:25:10 PM",
+      "wifiDevice": "S12AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:26:52 PM",
+      "wifiDevice": "S4AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:35:07 PM",
+      "wifiDevice": "S6AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:36:04 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:40:53 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:53:43 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "Marion.RIBES",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 02:57:12 PM",
+      "wifiDevice": "S15AP3"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:10:13 PM",
+      "wifiDevice": "S8AP1"
+    },
+    {
+      "userName": "David.TAING",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:19:36 PM",
+      "wifiDevice": "S2AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:27:17 PM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "elodie.simon",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:28:50 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:29:33 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:30:46 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:34:52 PM",
+      "wifiDevice": "S4AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:39:34 PM",
+      "wifiDevice": "S10AP1"
+    },
+    {
+      "userName": "Marie-Alix.LESELLIER",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:43:31 PM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:44:56 PM",
+      "wifiDevice": "S8AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:45:34 PM",
+      "wifiDevice": "S6AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:46:16 PM",
+      "wifiDevice": "S4AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:46:49 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:47:47 PM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:47:24 PM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:50:29 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:50:27 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:51:05 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:51:05 PM",
+      "wifiDevice": "S6AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:51:09 PM",
+      "wifiDevice": "S4AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:51:06 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "vaucoret.adrian",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:53:23 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:54:50 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:55:29 PM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:55:07 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:55:59 PM",
+      "wifiDevice": "S4AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:56:12 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:55:47 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:55:56 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:57:01 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "elena.domercq",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:56:38 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:56:43 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "Julien.DACHAUD",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:57:43 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:57:33 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "Louis.CHENAIS",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:58:07 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:58:30 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:58:51 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:59:04 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "georget.aurelien",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:01:21 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:59:02 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:59:02 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:59:23 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "zhao.philippe",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:59:26 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:59:26 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:00:01 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 03:59:53 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:00:00 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "chapon.quentin",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:00:08 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:00:39 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:00:52 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:01:06 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:00:39 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "Theo.KUNETZ",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:01:36 PM",
+      "wifiDevice": "S2AP2"
+    },
+    {
+      "userName": "Michael.PONRAJAH",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:01:37 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:01:41 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "payot.robin",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:01:44 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "Gabriel.VERGNAUD",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:01:27 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:01:21 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "renault.samuel",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:01:47 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "morisseau.quentin",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:01:55 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:02:05 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "lecolinet.damien",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:01:42 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "menou.augustin",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:02:08 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:01:45 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "papi.antoine",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:01:47 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:02:17 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "turquand.audrey",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:02:27 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "guilhou.pierre",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:02:07 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:05:33 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "bigot.jeremy",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:02:32 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:02:38 PM",
+      "wifiDevice": "S6AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:02:39 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "Pierre-Antoine.LEMAITRE",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:02:41 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "mroczko.sylvain",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:02:44 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:02:35 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "sarrazin.maxime",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:06:26 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "perriere.julien",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:03:09 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "Meghan.REGIOR",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:03:14 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:03:16 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:02:59 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:03:29 PM",
+      "wifiDevice": "S10AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:03:05 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "tacita.dimitri",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:03:21 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "bouchet.sonia",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:03:55 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "reitz.lucie",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:03:42 PM",
+      "wifiDevice": "S10AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:08 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:16 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:29 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "ambal.aurelie",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:37 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:44 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:41 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "vuillequez.laura",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:46 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:55 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:29 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "houssepian.ilan",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:55 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "raquin.allan",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:08:49 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:42 PM",
+      "wifiDevice": "S3AP2"
+    },
+    {
+      "userName": "do.yves",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:05:14 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:44 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:05:08 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "gaillard.c??me",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:05:16 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:04:53 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "walid.charfeddine",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:05:32 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:05:51 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:05:56 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:05:56 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:06:12 PM",
+      "wifiDevice": "S6AP1"
+    },
+    {
+      "userName": "cervellera.valentin",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:06:14 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:06:19 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "debache.alexandre",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:05:59 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:06:41 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "Oscar.DELOIZY",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:13:33 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "guarneri.lucas",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:06:43 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:06:45 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "DacDavy.NGUYEN",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:06:54 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:14:26 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:06:34 PM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:07:05 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "amoros.marine",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:07:10 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:07:25 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:07:24 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:15:43 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:07:24 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "misson.emmanuelle",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:07:15 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:16:03 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:07:45 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:07:49 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "shen.hao.billy",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:07:38 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:08:20 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "catalano.adrien",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:07:57 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "Alexandre.CORSINI",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:18:32 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "kol.sara",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:08:24 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:08:37 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:18:46 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "bottet.margot",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:08:20 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:08:22 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:08:30 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:21:52 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:08:56 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:21:36 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:08:55 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "noel.billeau",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:09:02 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "Alain.FRIEDLI",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:22:47 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:09:09 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:09:10 PM",
+      "wifiDevice": "S2AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:23:50 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "thomas.nicolas",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:08:48 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:24:33 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:09:20 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "wattier.antoine",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:08:49 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:08:53 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:09:44 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:09:44 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:09:24 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:09:31 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:10:20 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "Clara.RUA",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:10:31 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:10:37 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:10:10 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:10:40 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:10:28 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "dugue.pierre-jean",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:11:28 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:11:04 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:11:43 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "chapron.kevin",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:11:57 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "maxime.martin",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:12:29 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:12:08 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "albert.dupouy",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:13:47 PM",
+      "wifiDevice": "S2AP2"
+    },
+    {
+      "userName": "matthieu.lebon",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:14:16 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:41:07 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:14:27 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:41:06 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:13:59 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:14:15 PM",
+      "wifiDevice": "S6AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:15:37 PM",
+      "wifiDevice": "S3AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:15:45 PM",
+      "wifiDevice": "S6AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:42:55 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:15:23 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:15:25 PM",
+      "wifiDevice": "S4AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:15:27 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "Nina.FARGE",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:16:02 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:46:25 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "pierre.degourcy",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:16:02 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "flach.corentin",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:16:31 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:16:40 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:16:45 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:17:29 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:48:56 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "selma.ozatalay",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:18:02 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "Maxime.PLANCHOU",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:17:43 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:18:07 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "Patrick.HENG",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:18:39 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:20:23 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:20:09 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "daussy.sebastien",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:51:39 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:20:27 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:53:03 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:21:28 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:22:15 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "Aymeric.CHAPPUY",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:21:56 PM",
+      "wifiDevice": "S2AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:55:42 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:23:23 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 04:59:21 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:01:27 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "mingoia.hugo",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:24:23 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:24:54 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:25:00 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:25:47 PM",
+      "wifiDevice": "S6AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:02:53 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:26:24 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:26:24 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:27:14 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:28:01 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:28:07 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:29:35 PM",
+      "wifiDevice": "S10AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:30:08 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:30:20 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:30:43 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:30:29 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:31:56 PM",
+      "wifiDevice": "S11AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:33:28 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:35:09 PM",
+      "wifiDevice": "S15AP3"
+    },
+    {
+      "userName": "haenlin.thibaut",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:37:14 PM",
+      "wifiDevice": "S10AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:37:09 PM",
+      "wifiDevice": "S3AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:37:45 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "Jean-Christophe.PETIT",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:11:59 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:37:54 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "Wladimir.DESOUSARODRIGUESALVES",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:37:56 PM",
+      "wifiDevice": "S12AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:38:09 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "ait-el-alim.noguier.robin",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:37:59 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "Max.ALLOUCH",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:38:31 PM",
+      "wifiDevice": "S3AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:14:56 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "Louis.CHARACHON",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:38:10 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:39:50 PM",
+      "wifiDevice": "S12AP2"
+    },
+    {
+      "userName": "Corentin.FARDEAU",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:15:07 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:41:05 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:41:04 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:16:29 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:41:49 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "spiga.gaetan",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:41:38 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:42:49 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:43:07 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "Julia.PARRINELLO",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:43:12 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:42:56 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:16:51 PM",
+      "wifiDevice": "Synerg"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:44:40 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:17:53 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:45:20 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:46:06 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:46:26 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:18:48 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:47:42 PM",
+      "wifiDevice": "S15AP3"
+    },
+    {
+      "userName": "Anastasia.SIMON",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:47:55 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:48:19 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "Damien.LAURENT",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:48:02 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:48:47 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:20:37 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:48:45 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "Othman.HASSANI",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:48:50 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:48:55 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:21:00 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:49:15 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:48:48 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "Nicolas.ANDRe",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:49:25 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:49:26 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:50:52 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:51:03 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:51:41 PM",
+      "wifiDevice": "S15AP3"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:51:39 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:52:03 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:21:58 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "Coralie.AMABLE",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:53:22 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "",
+        "href": ""
+      },
+      "sessionTime": "15/01/2015 05:22:12 PM",
+      "wifiDevice": "Espace2"
+    },
+    {
+      "userName": "chassagne.kevin",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:52:57 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:55:07 PM",
+      "wifiDevice": "S11AP2"
+    },
+    {
+      "userName": "Pierre-Olivier.POTIER",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:54:42 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "Alban.NOGARET",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:55:08 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "grandval.florent",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 04:58:05 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:01:12 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:02:14 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:02:53 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:02:54 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:02:59 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "Centis.MENANT",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:02:59 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:03:24 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:03:32 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:03:43 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:03:18 PM",
+      "wifiDevice": "S11AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:03:59 PM",
+      "wifiDevice": "S4AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:03:31 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:03:43 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "adrien.bellon-serre",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:04:30 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "Jean-Christophe.PELLAT",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:05:01 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:05:24 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:05:31 PM",
+      "wifiDevice": "S11AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:05:36 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:07:31 PM",
+      "wifiDevice": "S6AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:07:47 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:08:27 PM",
+      "wifiDevice": "S13AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:08:39 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "gereec.tanguy",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:08:54 PM",
+      "wifiDevice": "S10AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:10:16 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:10:03 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:11:25 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:12:33 PM",
+      "wifiDevice": "S12AP2"
+    },
+    {
+      "userName": "Matthieu.HARREAU",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:13:30 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:14:24 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:14:33 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:14:42 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:14:41 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:15:27 PM",
+      "wifiDevice": "S6AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:16:02 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:16:31 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:16:36 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:16:09 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "Paul.BOISEAU",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:16:45 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:16:24 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "Youna.DOH",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:16:25 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:16:49 PM",
+      "wifiDevice": "S8AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:16:33 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "Romain.QUILLIOT-BERGUE",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:17:16 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:16:48 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:17:17 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:17:54 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "Sebastien.DANCER-MICHEL",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:18:01 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:17:52 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "Pauline.DELUSIER",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:18:24 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "guillaume.muller",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:19:16 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "Mathieu.LETYRANT",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:19:18 PM",
+      "wifiDevice": "SpotSalle8"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:19:35 PM",
+      "wifiDevice": "S4AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:19:56 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:19:29 PM",
+      "wifiDevice": "S11AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:19:47 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:20:33 PM",
+      "wifiDevice": "S10AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:20:38 PM",
+      "wifiDevice": "S11AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:21:25 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "Suong Kevin.TAN",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:20:57 PM",
+      "wifiDevice": "S12AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:21:31 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "Aude.FICHEUX",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:21:34 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "Julien.GOVTEPE",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:21:06 PM",
+      "wifiDevice": "S12AP1"
+    },
+    {
+      "userName": "Annabelle.RUIZ",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:21:35 PM",
+      "wifiDevice": "S14AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:21:42 PM",
+      "wifiDevice": "S7AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:21:17 PM",
+      "wifiDevice": "S12AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:21:25 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:21:48 PM",
+      "wifiDevice": "S11AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:18 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:21 PM",
+      "wifiDevice": "S9AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:22 PM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "Gauthier.DERILLEUX-BES",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:21:56 PM",
+      "wifiDevice": "S1AP1"
+    },
+    {
+      "userName": "guillermin.hazan.arthur",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:31 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:41 PM",
+      "wifiDevice": "S9AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:16 PM",
+      "wifiDevice": "S16AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:47 PM",
+      "wifiDevice": "S13AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:44 PM",
+      "wifiDevice": "S2AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:21 PM",
+      "wifiDevice": "S12AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:53 PM",
+      "wifiDevice": "S1AP2"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "RDC HETIC_HETICRDC",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:53 PM",
+      "wifiDevice": "S4AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:57 PM",
+      "wifiDevice": "S14AP1"
+    },
+    {
+      "userName": "",
+      "location": {
+        "text": "HETIC 1er_HETIC1er",
+        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+      },
+      "sessionTime": "15/01/2015 05:22:59 PM",
+      "wifiDevice": "S11AP2"
+    }
+  ]
+}

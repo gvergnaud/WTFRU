@@ -1,0 +1,187 @@
+<!-- Map -->
+<div id="mapContainer">
+	<hetic-map etage="map.etage" places="map.places" go="app.go">
+		<!-- <text>lol</text> -->
+	</hetic-map>
+</div>
+
+<!-- Recherche  -->
+<nav 	id="search" 
+		search-bar 
+		search-state="map.searchState"
+		ng-class="{
+			active: map.searchState === 'active',
+			inactive: map.searchState === 'inactive',
+			closed: map.searchState === 'closed'
+		}">
+
+	<input 	class="searchBar" 
+			type="text" 
+			placeholder="Recherche" 
+			ng-model="map.Search" 
+			ng-click="app.go('map')" />
+
+	<span 	class="icon-close icone link"
+			ng-click="map.toggleSearchState()"></span>
+
+	<div class="usersContainer" relative-max-height="150">
+		<div 	class="user"
+				selectable
+				draggable
+				ng-repeat="user in map.users | byName:map.Search | limitTo:10" 
+			 	ng-show="map.searchState === 'active'">
+
+
+			 <div class="visible">
+			 	<div class="thumbnailContainer">
+					<img full-frame class="thumbnail" ng-src="http://outils.hetic.net/external/picture/{{user.id}}" />
+			 	</div>
+
+				<div class="firstColumn">
+					<p class="name">{{user.prenom}} {{user.nom}}</p>
+					<p class="promo">
+						<span ng-if="user.hetic.level === 0">{{user.hetic.annee}} P{{user.hetic.promotion}}</span>
+						<span ng-if="user.hetic.level === 1">Intervenant</span>
+						<span ng-if="user.hetic.level === 2">Administration</span>
+					</p>
+				</div>
+
+				<div class="secondColumn">
+					<p 	ng-if="user.wifi && !user.ghost_at"
+						ng-click="app.go('map.place', {placeName: map.wifiDevices[user.wifi.wifiDevice].salle})"
+						class="place">{{ map.wifiDevices[user.wifi.wifiDevice].salle }}</p>
+					<p ng-if="user.ghost_at" class="activity">invisible</p>
+					<p ng-if="user.wifi" class="activity" am-time-ago="{{user.ghost_at*1000}}">maintenant</p>
+				</div>
+			</div>
+
+			<div class="hidden">
+				<div class="col3">
+					<span 	class="icon-user-card" 
+							ng-click="app.go('map.usercard', {id: user.id})">Profil</span>
+				</div>
+
+				<div class="col3">
+					<span 	class="icon-wtfru" 
+							ng-click="app.wtfru(user)">WTFRU?!</span>
+				</div>
+
+				<div class="col3">
+					<span 	class="icon-slack" 
+							ng-click="app.slack.open(user)">Discussion</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</nav>
+
+<!-- Groupes -->
+<div id="myGroup" ng-if="map.myGroup.users.length">
+	
+	<section class="memberContainer">
+		<div draggable class="member" ng-repeat="user in map.myGroup.users | sortedByFirstname">
+			 <div class="thumbnailContainer">
+				<img 
+					full-frame
+					class="thumbnail" 
+					ng-src="http://outils.hetic.net/external/picture/{{user.id || map.getUserFromId(user.favorite_id || user.id).id}}" />
+			</div>
+			
+			<span
+				class="name"
+				ng-click="app.go('map.usercard', {id: user.favorite_id || user.id})">{{user.prenom}} {{user.nom}}</span> 
+		</div>
+	</section>
+	
+	<div class="button cog" ng-click="app.cog(map.myGroup.users)">
+		<span class="icon-cog-1">COG</span>
+	</div>
+	<div class="button empty" ng-click="map.myGroup.empty()">
+		<span class="icon-vider">Vider</span>
+	</div>
+</div>
+
+<!-- Filtres -->
+<nav id="filter" ng-click="app.go('map.filter')" ng-class="{active: $state.includes('map.filter')}">
+	<span>Filtres</span>
+</nav>
+
+
+<!-- flotant a droite -->
+<nav 	id="profil" 
+		ng-click="app.go('map.profil')"
+		ng-class="{left: $state.includes('map.place')}">
+
+	<img full-frame ng-src="http://outils.hetic.net/external/picture/{{app.me.user.id}}" />
+	<span class="icon-settings"></span>
+</nav>
+
+
+<nav 	id="notification" 
+		ng-click="app.go('map.notification')" 
+		ng-class="{active: $state.includes('map.notification') || app.notifications.count, left: $state.includes('map.place')}">
+
+	<span class="icon-notifications"></span>
+</nav>
+<nav 	id="notViewedCount" 
+		ng-class="{left: $state.includes('map.place')}"
+		ng-show="app.notifications.count">{{app.notifications.count}}</nav>
+
+
+<nav 	id="favorite" 
+		ng-click="app.go('map.favorite')" 
+		ng-class="{active: $state.includes('map.favorite'), left: $state.includes('map.place')}">
+
+	<span class="icon-favoris"></span>
+</nav>
+
+<!-- Etages -->
+<nav id="etage">
+	<span class="link" ng-class="{active: map.etage}" ng-click="map.etage = 1">étage ({{map.firstFloor}})</span>  .  
+	<span class="link" ng-class="{active: !map.etage}" ng-click="map.etage = 0">Rez-de-chaussée ({{map.groundFloor}})</span>	
+</nav>
+
+
+<div ui-view="filter"></div>
+<div ui-view="notification"></div>
+<div ui-view="favorite"></div>
+<div ui-view="place"></div>
+<!-- Overlay -->
+<div ui-view="usercard"></div>
+<div ui-view="send"></div>
+<!-- seeAll -->
+<div relative-max-height="190" ui-view="seeAll"></div>
+
+
+<div id="dropOverlay" ng-controller="dropCtrl as drop">
+
+	<div 	id="groupDropZone" 
+			class="group half {{drop.groupContent.containerClass}}" 
+			droppable="group" 
+			data-on-drop="drop.groupFunction"
+			relative-max-height="90">
+
+		<div class="content">
+			<span class="big-icon {{drop.groupContent.iconClass}}"></span>
+			<h1 class="title">{{drop.groupContent.title}}</h1>
+		</div>
+	</div>
+
+	<div 	id="favoriteDropZone"
+			class="favorite half {{drop.favoriteContent.containerClass}}"
+			droppable="favorite"
+			data-on-drop="drop.favoriteFunction"
+			relative-max-height="90">
+
+		<div class="content">
+			<span class="big-icon {{drop.favoriteContent.iconClass}}"></span>
+			<h1 class="title">{{drop.favoriteContent.title}}</h1>
+		</div>
+	</div>
+
+	<div droppable="cancel" data-on-drop="" class="cancel">
+		Annuler
+	</div>
+</div>
+
+<div ui-view="tuto"></div>

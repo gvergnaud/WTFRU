@@ -1,0 +1,75 @@
+<section id="notifModal" scale-enter>
+	
+	<header>
+		<span class="title">
+			Notifications 
+			<span ng-show="::app.notifications.count">({{::app.notifications.count}})</span>
+		</span> 
+		<span class="viewed"></span>
+	</header>
+
+	<div 	class="notif"
+			selectable
+			draggable
+			ng-repeat="notif in notifications | limitTo:5"
+			ng-class="{hasMsg: !!notif.content}">
+
+		<div class="visible" ng-class="{viewed: notif.isViewed}">
+		 	<div class="thumbnailContainer">
+				<img full-frame class="thumbnail" ng-src="http://outils.hetic.net/external/picture/{{notif.sender_id}}" />
+			</div>
+
+			<div class="firstColumn">
+
+				<p>
+					<span ng-if="notif.type === 'WTFRU'" class="type">Where The F#ck R'U?!</span>
+					<span ng-if="notif.type === 'COG'" class="type">Come On Guys.</span>
+					<span ng-if="notif.type === 'HERE'" class="type">I'm Here!</span>
+					<span ng-if="notif.type === 'OMW'" class="type">On My Way!</span>
+					 envoyé par 
+					<span class="name">{{notif.sender_prenom}} {{notif.sender_nom}}</span> 
+				</p>
+
+				<p>
+					<span ng-if="notif.sender_wifidevice" class="place">en {{ map.wifiDevices[notif.sender_wifidevice].salle }} </span>
+					<span class="activity" am-time-ago="{{notif.date*1000}}">maintenant</span>
+				</p>
+			</div>
+		</div>
+
+		<div class="hidden">
+			<div class="row">
+				<span class="message" ng-show="!!notif.content">"{{notif.content}}"</span>
+			</div>
+
+			<div class="row">
+
+				<div class="col2">
+					<span 	ng-if="notif.type === 'WTFRU'" 
+							class="icon-here-1" 
+							ng-click="app.here(notif.sender_id)">I'm Here!</span>
+					
+					<span 	ng-if="notif.type === 'COG'" 
+							class="icon-imomw" 
+							ng-click="app.omw(notif.sender_id)">On My Way!</span>
+
+					<span 	ng-if="notif.type === 'HERE'"
+							ng-click="app.go('map.place', {placeName: map.wifiDevices[notif.sender_wifidevice].salle})">
+						{{ map.wifiDevices[notif.sender_wifidevice].salle }}
+					</span>
+				</div>
+
+				<div class="col2">
+					<span 	class="icon-user-card" 
+							ng-click="app.go('map.usercard', {id: notif.sender_id})">Profil</span>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+	<footer ng-click="app.go('map.allNotifications')">
+		<span>Voir tout</span>
+	</footer>
+
+</section>

@@ -1,0 +1,145 @@
+.transition(@value) {
+  -webkit-transition: @value;
+     -moz-transition: @value;
+          transition: @value;
+}
+
+.transform(@value) {
+  -webkit-transform: @value;
+     -moz-transform: @value;
+          transform: @value;
+}
+
+.animation(@value) {
+  -webkit-animation: @value;
+     -moz-animation: @value;
+          animation: @value;
+}
+
+.box-shadow(@value){
+	-webkit-box-shadow:@value;
+	-moz-box-shadow:   @value;
+	box-shadow:        @value;
+}
+
+@-webkit-keyframes enterCoUser {
+	0% { opacity:0; visibility:hidden; transform: translateX(40px) scale(0.8); }
+	100% { opacity:1; visibility:visible; transform: translateX(0) scale(1); }
+}
+
+@-moz-keyframes enterCoUser {
+	0% { opacity:0; visibility:hidden; transform: translateX(40px) scale(0.8); }
+	100% { opacity:1; visibility:visible; transform: translateX(0) scale(1); }
+}
+
+@keyframes enterCoUser {
+	0% { opacity:0; visibility:hidden; transform: translateX(40px) scale(0.8); }
+	100% { opacity:1; visibility:visible; transform: translateX(0) scale(1); }
+}
+
+@-webkit-keyframes leaveCoUser {
+	0% { opacity:1; visibility:visible; transform: translateX(0) scale(1); }
+	100% { opacity:0; visibility:hidden; transform: translateX(-40px) scale(0.8); }
+}
+
+@-moz-keyframes leaveCoUser {
+	0% { opacity:1; visibility:visible; transform: translateX(0) scale(1); }
+	100% { opacity:0; visibility:hidden; transform: translateX(-40px) scale(0.8); }
+}
+
+@keyframes leaveCoUser {
+	0% { opacity:1; visibility:visible; transform: translateX(0) scale(1); }
+	100% { opacity:0; visibility:hidden; transform: translateX(-40px) scale(0.8); }
+}
+
+
+@searchBorderHeight: 3px;
+
+@bleu: #5e7feb;
+@bleufonce: #506cc8;
+@violet: #333157;
+
+@grisclair: #ddd;
+@grisfonce: #888;
+@dark: #222;
+
+@blanc: #fff;
+@translucide: rgba(255, 255, 255, .35);
+@opaque: rgba(255, 255, 255, .9);
+
+@noir: #2e2e2e;
+@bgDarkest: rgba(5, 5, 13, .9);
+
+@rouge: #ef7272;
+@jaune: #ffd905;
+@jauneclair: #fff960;
+
+@vert: #6cd089;
+
+div.button{
+	.transition(all 0.3s);
+}
+
+div.button:hover{
+	.transform(scale(1.05));
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans';
+	font-size: 16px;
+	overflow: hidden;
+}
+
+.row{
+	display: block;
+	width: 100%;
+}
+
+.col2{
+	float:left;
+	width: 50%;
+}
+.col3{
+	float:left;
+	width: 33.3%;
+}
+
+.link, [selectable], [on-click-toggle-class], [ng-click]{
+	cursor: pointer;
+}
+
+footer#copyrights{
+	position: absolute;
+	z-index:0;
+	bottom: 20px;
+	left:50%;
+
+	transform: translateX(-50%);
+
+	font-family: 'Open Sans';
+	font-size: 13px;
+	white-space: nowrap;
+
+	span.copyrights{
+		color: #eaeaea;
+	}
+
+	span.about{
+		color: #5e7feb;
+        cursor: pointer;
+		text-decoration:none;
+		&:hover{
+			text-decoration:underline;
+		}
+	}
+}
+
+[ui-view="main"]{
+	position: absolute;
+	top:0;
+	left:0;
+	height: 100%;
+	width: 100%;
+}

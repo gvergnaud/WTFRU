@@ -1,0 +1,153 @@
+{
+	"S1AP1": {
+		"name": "S1AP1",
+		"salle": "salle1",
+		"etage": 0
+	},
+	"S1AP2": {
+		"name": "S1AP2",
+		"salle": "salle1",
+		"etage": 0
+	},
+	"S2AP1": {
+		"name": "S2AP1",
+		"salle": "salle2",
+		"etage": 0
+	},
+	"S2AP2": {
+		"name": "S2AP2",
+		"salle": "salle2",
+		"etage": 0
+	},
+	"S3AP1": {
+		"name": "S3AP1",
+		"salle": "salle3",
+		"etage": 0
+	},
+	"S3AP2": {
+		"name": "S3AP2",
+		"salle": "salle3",
+		"etage": 0
+	},
+	"S4AP1": {
+		"name": "S4AP1",
+		"salle": "salle4",
+		"etage": 0
+	},
+	"S4AP2": {
+		"name": "S4AP2",
+		"salle": "salle4",
+		"etage": 0
+	},
+	"PR1": {
+		"name": "PR1",
+		"salle": "reunion1", 
+		"etage": 0
+	},
+	"S6AP1": {
+		"name": "S6AP1",
+		"salle": "salle6",
+		"etage": 0
+		
+	},
+	"S7AP1": {
+		"name": "S7AP1",
+		"salle": "salle7",
+		"etage": 0
+	},
+	"S8AP1": {
+		"name": "S8AP1",
+		"salle": "salle8",
+		"etage": 0
+	},
+	"S9AP1": {
+		"name": "S9AP1",
+		"salle": "salle9",
+		"etage": 0
+	},
+	"S9AP2": {
+		"name": "S9AP2",
+		"salle": "salle9",
+		"etage": 0
+	},
+	"S10AP1": {
+		"name": "S10AP1",
+		"salle": "salle10",
+		"etage": 0
+	},
+	"Synerg": {
+		"name": "Synerg",
+		"salle": "synerg",
+		"etage": 1
+	},
+	"S11AP1": {
+		"name": "S11AP1",
+		"salle": "salle11",
+		"etage": 1
+	},
+	"S11AP2": {
+		"name": "S11AP2",
+		"salle": "salle11",
+		"etage": 1
+	},
+	"S12AP1": {
+		"name": "S12AP1",
+		"salle": "salle12",
+		"etage": 1
+	},
+	"S12AP2": {
+		"name": "S12AP2",
+		"salle": "salle12",
+		"etage": 1
+	},
+	"S13AP1": {
+		"name": "S13AP1",
+		"salle": "salle13",
+		"etage": 1
+	},
+	"S13AP2": {
+		"name": "S13AP2",
+		"salle": "salle13",
+		"etage": 1
+	},
+	"SpotSalle8": {
+		"name": "SpotSalle8",
+		"salle": "cafeteria2",
+		"etage": 1
+	},
+	"Espace2": {
+		"name": "Espace2",
+		"salle": "cafeteria2",
+		"etage": 1
+	},
+	"S14AP1": {
+		"name": "S14AP1",
+		"salle": "salle14",
+		"etage": 1
+	},
+	"S14AP2": {
+		"name": "S14AP2",
+		"salle": "salle14",
+		"etage": 1
+	},
+	"S15AP1": {
+		"name": "S15AP1",
+		"salle": "salle15",
+		"etage": 1
+	},
+	"S15AP2": {
+		"name": "S15AP2",
+		"salle": "salle15",
+		"etage": 1
+	},
+	"S15AP3": {
+		"name": "S15AP3",
+		"salle": "salle15",
+		"etage": 1
+	},
+	"S16AP1": {
+		"name": "S16AP1",
+		"salle": "salle16",
+		"etage": 1
+	}
+}

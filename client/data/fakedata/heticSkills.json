@@ -1,0 +1,1170 @@
+[
+{
+"login": {
+"login": "GVERGNAUD14",
+"password": "64aea699744cd306f2b52e31c042bcb4bf2d452e",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-29T14:50:16.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Angular.js",
+"id": 550
+},
+{
+"login": {
+"login": "GVERGNAUD14",
+"password": "64aea699744cd306f2b52e31c042bcb4bf2d452e",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-29T14:50:16.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Javascript",
+"id": 551
+},
+{
+"login": {
+"login": "GVERGNAUD14",
+"password": "64aea699744cd306f2b52e31c042bcb4bf2d452e",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-29T14:50:16.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "HTML5",
+"id": 552
+},
+{
+"login": {
+"login": "GVERGNAUD14",
+"password": "64aea699744cd306f2b52e31c042bcb4bf2d452e",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-29T14:50:16.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "CSS3",
+"id": 553
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "JavaScript",
+"id": 1125
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Node.js",
+"id": 1126
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Sails",
+"id": 1127
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Waterline",
+"id": 1128
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Socket.io",
+"id": 1129
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "extens.io",
+"id": 1130
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "APIs",
+"id": 1132
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Git",
+"id": 1133
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "MongoDB",
+"id": 1134
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "jQuery",
+"id": 1135
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "HTML 5",
+"id": 1136
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "CSS3",
+"id": 1137
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Redis",
+"id": 1139
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Docker",
+"id": 1140
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "NoSQL",
+"id": 1141
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "ArangoDB",
+"id": 1143
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Bower",
+"id": 1144
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "io.js",
+"id": 1145
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "GitHub",
+"id": 1146
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Grunt",
+"id": 1147
+},
+{
+"login": {
+"login": "LSAINT-ROCH11",
+"password": "9a314857cfcc9eb80d15e28464c5e9f8ee0c7a19",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T11:00:52.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "npm",
+"id": 1148
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "JavaScript",
+"id": 271
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Node.js",
+"id": 272
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "PHP",
+"id": 273
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Web Development",
+"id": 274
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Sails.js",
+"id": 276
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "jQuery",
+"id": 277
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Web Architecture",
+"id": 278
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "MongoDB",
+"id": 279
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Git",
+"id": 280
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Grunt",
+"id": 281
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Bower",
+"id": 282
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "extens.io",
+"id": 283
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Symfony",
+"id": 284
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Ruby on Rails",
+"id": 285
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "jQuery UI",
+"id": 286
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Underscore.js",
+"id": 287
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Backbone.js",
+"id": 288
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Require.js",
+"id": 289
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "SQL",
+"id": 290
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "PL/SQL",
+"id": 291
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Oracle Database",
+"id": 292
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "MySQL",
+"id": 293
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Handlebars.js",
+"id": 294
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Mustache.js",
+"id": 295
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Yeoman",
+"id": 296
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Dploy",
+"id": 297
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Subversion",
+"id": 298
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "HTML 5",
+"id": 299
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "JSON",
+"id": 300
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Selenium browser automation",
+"id": 301
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "PhantomJS",
+"id": 302
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "GitHub",
+"id": 303
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Bitbucket",
+"id": 304
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "WordPress",
+"id": 305
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Ghost",
+"id": 306
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "UML",
+"id": 307
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Merise",
+"id": 308
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Android Development",
+"id": 309
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "J2EE Application Development",
+"id": 310
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "SEO",
+"id": 311
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Java",
+"id": 312
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "AJAX",
+"id": 313
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "WebSockets",
+"id": 314
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Agile Methodologies",
+"id": 315
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "Project Management",
+"id": 316
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "XML",
+"id": 317
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "CSS3",
+"id": 318
+},
+{
+"login": {
+"login": "PGUILHOU13",
+"password": "42600ffd5796f42911c48737fc69c14cda954ebb",
+"id_formation": 2,
+"level": 0,
+"level_intranet": 0,
+"level_OGI": 0,
+"level_OGP": 0,
+"last_login": "2015-01-30T10:52:34.000Z",
+"OAuthGoogle": null,
+"OAuthFacebook": null
+},
+"competence": "SASS/Compass",
+"id": 319
+}
+]

@@ -1,0 +1,19 @@
+<div id="login">
+	<section class="loginContent">
+		<div class="arrow left" ng-click="leftUser()"></div>
+		<div class="arrow right" ng-click="rightUser()"></div>
+		<a class="logotype" href="#"></a>
+		<div class="usersWrap">
+			<div class="userContainer entered" ng-if="!!selectedUser">
+				<img ng-src="http://outils.hetic.net/external/picture/{{selectedUser.id}}" alt="">
+				<p>
+					{{selectedUser.name}}
+					<span>{{selectedUser.promo}}</span>
+				</p>
+			</div>
+		</div>
+		<a class="btn-connect" ng-click="auth(selectedUser.id)">Connexion</button>
+	</section>
+</div>
+
+<a href="login">Hetic connect</a>

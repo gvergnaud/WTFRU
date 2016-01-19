@@ -1,0 +1,26 @@
+{
+  "name": "defiant.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hbi99/defiant.js",
+  "authors": [
+    "hbi99 <hbi99@hotmail.com>",
+    "Clément Lamoureux <clement@raccourci.fr>"
+  ],
+  "description": "Defiant.JS bower package",
+  "main": "dist/defiant-latest.min.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "Defiant.js",
+    "defiant"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

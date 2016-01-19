@@ -1,0 +1,26 @@
+<section relative-max-height="185" id="favoriteModal" scale-enter>
+	
+	<header>
+		<span class="title">Mes Favoris</span> 
+		<span class="close icon-close" ng-click="app.go('map')"></span>
+	</header>
+	
+	<div class="container" relative-max-height="247">
+		<div 
+			draggable
+			relative-max-height="185"
+			ng-repeat="favorite in favorites | sortedByFirstname"
+			class="favorite favorite{{favorite.favorite_id}}">
+
+		 	<div class="thumbnailContainer">
+				<img 
+					full-frame
+					class="thumbnail"
+					ng-src="http://outils.hetic.net/external/picture/{{favorite.favorite_id}}" />
+			</div>
+			<span class="name" ng-click="app.go('map.usercard', {id: favorite.favorite_id})">{{favorite.prenom}} {{favorite.nom}}</span>
+			<span class="icon icon-favoris" ng-click="toggleFavorite(favorite)"></span>
+		</div>
+	</div>
+
+</section>

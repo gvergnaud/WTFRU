@@ -1,0 +1,111 @@
+[
+	{
+		"id": 0,
+		"email": "florian.tiar@hetic.net",
+		"firstname": "florian",
+		"lastname": "tiar",
+		"ghostAt": false,
+		"hetic": {
+			"skills": [
+				"html4",
+				"css2",
+				"ruby sur rails",
+				"wordpress",
+				"aspirateur"
+			],
+			"age": 21,
+			"phone": "0691919191"
+		},
+		"notifications": [
+			{
+				"type": "WTFRU",
+				"content": "gros, tu chie on t'attend !",
+				"date": 1414921768310,
+				"userId": 3,
+				"firstname": "Alexis",
+				"lastname": "Delvaque",
+				"wifiDevice": "S14AP1"
+			}
+		],
+		"positions": [
+			{
+				"date": 1414921768310,
+				"location": {
+			        "text": "HETIC 1er_HETIC1er",
+			        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+		    	},
+			 	"sessionTime": "15/01/2015 01:59:40 PM",
+				"wifiDevice": "S15AP3"
+			}
+		],
+		"favorits": [
+			{
+				"id": 2,
+				"email": "gabriel.vergnaud@hetic.net",
+				"firstname": "gabriel",
+				"lastname": "vergnaud"
+			},
+			{
+				"id": 3,
+				"email": "alexis.delvaque@hetic.net",
+				"firstname": "alexis",
+				"lastname": "delvaque"
+			}
+		]
+	},
+	{
+		"id": 0,
+		"email": "florian.tiar@hetic.net",
+		"firstname": "Alexis",
+		"lastname": "Delvaque",
+		"ghostAt": false,
+		"hetic": {
+			"skills": [
+				"html4",
+				"css2",
+				"ruby sur rails",
+				"wordpress",
+				"aspirateur"
+			],
+			"age": 21,
+			"phone": "0691919191"
+		},
+		"notifications": [
+			{
+				"type": "WTFRU",
+				"content": "c'est bon j'arrive",
+				"date": 1414921768310,
+				"userId": 3,
+				"firstname": "florian",
+				"lastname": "tiar",
+				"wifiDevice": "S14AP1"
+			}
+		],
+		"positions": [
+			{
+				"date": 1414921768310,
+				"location": {
+			        "text": "HETIC 1er_HETIC1er",
+			        "href": "https://hm-emea-032.aerohive.com/hm/#location"
+		    	},
+			 	"sessionTime": "15/01/2015 01:59:40 PM",
+				"wifiDevice": "S15AP3"
+			}
+		],
+		"favorits": [
+			{
+				"id": 2,
+				"email": "gabriel.vergnaud@hetic.net",
+				"firstname": "gabriel",
+				"lastname": "vergnaud",
+				"ghostAt": false
+			},
+			{
+				"id": 3,
+				"email": "alexis.delvaque@hetic.net",
+				"firstname": "alexis",
+				"lastname": "delvaque"
+			}
+		]
+	}
+]
